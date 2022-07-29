@@ -13,7 +13,7 @@ Data from: https://www.basketball-reference.com
 
 Link for this work in my kaggle:https://www.kaggle.com/code/eames07/college-students-nba-performance-analysis
 
-Note: highly recommend open the link above and check my work since there are animation and hover data can't be showned in the ReadMe file
+Note: highly recommend open the link above and check my work since there are animation and hover data can't be shown in the ReadMe file
 
 # Rank colleges by player's total minutes in NBA
 
