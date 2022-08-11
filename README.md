@@ -3,7 +3,6 @@
 
 Aim to analyze NBA player's performance based on their colleges
 
-
 # Dataset Introduction
 
 Columns(24)
